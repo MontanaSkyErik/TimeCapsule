@@ -1,0 +1,5 @@
+.DS_Store
+TimeCapsule.xcodeproj/
+xcuserdata/
+DerivedData/
+build/
